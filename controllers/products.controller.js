@@ -1,7 +1,7 @@
 
-//Import modal vào để tương tác với API
+//Import model vào để tương tác với API
 
-// Modal API: https://mongoosejs.com/docs/api/model.html
+// model API: https://mongoosejs.com/docs/api/model.html
 const Product = require("../models/products.model");
 const getProductsController = async (req, res) => {
 
